@@ -1,8 +1,9 @@
 {
   "name": "darksharddesign",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "FrontEnd PWA for DarkShard Design Social, Retail and Application portals",
   "author": "Sean Przybyla",
+  "repository": "https://github.com/DarkShardDesign/darksharddesign.git",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
