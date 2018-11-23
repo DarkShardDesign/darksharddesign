@@ -2,6 +2,10 @@
 
 > FrontEnd PWA for DarkShard Design Social, Retail and Application portals
 
+# Technologies
+VueJs
+JavaScript
+
 ## Build Setup
 
 ``` bash
