@@ -3,8 +3,8 @@
 > FrontEnd PWA for DarkShard Design Social, Retail and Application portals
 
 # Technologies
-VueJs
-JavaScript
+VueJs  
+JavaScript  
 
 ## Build Setup
 
